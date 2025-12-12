@@ -648,8 +648,7 @@ h1, h2, h3 {
                     <li><a href="#">About Me</a></li>
                     <li><a href="#experience-section">Experience</a></li>
                     <li><a href="#skills-section">Skills</a></li>
-                    <li><a href="https://wa.me/6281218200770">Contact Us</a></li>
-                </ul>
+                    </ul>
             </nav>
             <!-- Update link WhatsApp di tombol kontak -->
             <a href="https://wa.me/6281218200770" class="btn contact-btn">CONTACT ME &rarr;</a>
@@ -676,9 +675,9 @@ experience with fresh ideas (and maybe a few too many font libraries), let’s t
             </div>
             <div class="hero-image">
                 <!-- Gambar Profil (Placeholder - Diperbaiki agar berfungsi) -->
-                <img src="https://picsum.photos/400/500?random=2" 
+                <img src="https://drive.google.com/file/d/1ySlGoatWOZB9-FkZZb9NZN9DJm6y2_WE/view?usp=sharing" 
                      alt="GALIH APRILIANTO, Desainer Digital" 
-                     onerror="this.onerror=null; this.src='https://placehold.co/400x500/ff6600/ffffff?text=GALIH+APRILIANTO';">
+                     onerror="this.onerror=null; this.src='https://drive.google.com/file/d/1ySlGoatWOZB9-FkZZb9NZN9DJm6y2_WE/view?usp=sharing';">
                 
                 <!-- Sosial media ikon -->
                 <div class="social-icons">
